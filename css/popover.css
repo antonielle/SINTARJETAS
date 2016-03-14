@@ -1,0 +1,27 @@
+<style>
+/* Popover 
+  .popover {
+      border: 2px dotted gray;*/
+  }
+  /* Popover */
+ .popover-content {
+      -webkit-box-shadow:10px 10px 5px 0px rgba(0,0,0,0.75);
+      -moz-box-shadow:10px 10px 5px 0px rgba(0,0,0,0.75);
+       box-shadow: 10px 10px 50x 0px rgba(0,0,0,0.75);
+           
+  }
+  /* Popover Body */
+.popover-content{
+      background-color: #ff920a; 
+      color: #FFFFFF;
+    -webkit-box-shadow:10px 10px 5px 0px rgba(0,0,0,0.75);
+      -moz-box-shadow:10px 10px 5px 0px rgba(0,0,0,0.75);
+       box-shadow: 10px 10px 50x 0px rgba(0,0,0,0.75);
+       font-size: 16px;
+       text-align:center;     
+  }
+</style>
+  /* Popover Arrow 
+  .arrow {
+      border-right-color: gray !important;padding: 20px;
+  }*/

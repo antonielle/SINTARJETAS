@@ -1,0 +1,12 @@
+ footer {
+ 	position: relative;
+ 	margin-right: 50px;
+ 	margin-left: 50px;
+ 	/* ponga en negativo el alto de su pie de página para nuestro    ejemplo usamos 63, usted debe remplazarlo según su diseño   */
+ 	
+ 	height: 30px;
+ 	width: 100%;
+ 	top: 30%;
+ 	left: 30%;
+ 	transform: translate(-30%, -30%)
+ }
