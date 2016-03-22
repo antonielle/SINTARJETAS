@@ -15,8 +15,10 @@
             });
 
             if (valido) {
-                //$('#miModal').modal('hide');
+                $('#miModal').modal('hide');
                 $('#success-alert').removeClass('hidden');
+            } else {
+                $('#success_alert').removeClass;
             }
 
         });

@@ -1,0 +1,12 @@
+h2 {
+    color: darkgray;
+    font-family: sans-serif;
+    text-align: center;
+}
+
+div.container {
+    margin-top: 150px;
+    margin-bottom: 100px;
+    margin-right: 100px;
+    margin-left: 80px;
+}
