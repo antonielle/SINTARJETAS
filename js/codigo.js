@@ -15,11 +15,11 @@
             });
 
             if (valido) {
-                $('#miModal').modal('hide');
-                $('#success-alert').removeClass('hidden');
+                $('#modaltrue').modal();
+                //$('#success-alert').removeClass();
             } else {
-                $('#success_alert').removeClass;
-            }
-
+                $('#modalfalse').modal();
+                //$('#success_alert').removeClass('hidden');
+            };
         });
     });
