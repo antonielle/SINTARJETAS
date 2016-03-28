@@ -3,7 +3,7 @@
             var valido = true;
             $('input').each(function () {
                 var grupo = $(this).parents('.form-group');
-                var icono = grupo.find('.glyphicon');
+                var icono = grupo.find('.verif');
                 if (this.checkValidity()) {
                     grupo.addClass('has-success').removeClass('has-error');
                     icono.addClass('glyphicon-ok').removeClass('glyphicon-remove');
